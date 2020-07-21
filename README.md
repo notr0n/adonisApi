@@ -1,25 +1,19 @@
-# Adonis fullstack application
+# Adonis Crud Api
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/notr0n/adonisApi/)
 
-1. Bodyparser
-2. Session
-3. Authentication
-4. Web security middleware
-5. CORS
-6. Edge template engine
-7. Lucid ORM
-8. Migrations and seeds
+| Option | description | Completed ? |
+| ------ | ------ | ------ |
+| CRUD | index, store , show , update , delete | Yes |
+| Relation | Many To Many with LUCID | Yes |
+| Authentication | Personal API tokens | No |
+| Middleware structure | FindDataByID | Yes |
+| CSRF Protection | csrftoken() | No |
+
 
 ## Setup
 
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick
-```
-
-or manually clone the repo and then run `npm install`.
+manually clone the repo and then run `npm install`.
 
 
 ### Migrations
