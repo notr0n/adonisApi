@@ -1,6 +1,9 @@
 # Adonis Crud Api
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/notr0n/adonisApi/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/rosix1/adonisApi/)
+[![GitHub release](https://img.shields.io/github/release/zaproxy/zaproxy.svg)](https://github.com/rosix1/adonisApi/)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/rosix1/adonisApi/)
+
 
 | Option | description | Completed ? |
 | ------ | ------ | ------ |
