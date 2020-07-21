@@ -5,6 +5,7 @@
 | Option | description | Completed ? |
 | ------ | ------ | ------ |
 | CRUD | index, store , show , update , delete | Yes |
+| User | Registration , Login | No |
 | Relation | Many To Many with LUCID | Yes |
 | Authentication | Personal API tokens | No |
 | Middleware structure | FindDataByID | Yes |
